@@ -1,0 +1,22 @@
+[
+    {
+        "term": "Variável",
+        "definition": "Um nome simbólico para armazenar um valor."
+    },
+    {
+        "term": "Função",
+        "definition": "Um bloco de código reutilizável que realiza uma tarefa específica."
+    },
+    {
+        "term": "Array",
+        "definition": "Uma estrutura de dados que armazena uma coleção de elementos."
+    },
+    {
+        "term": "Objeto",
+        "definition": "Uma coleção de propriedades, onde cada propriedade possui um nome e um valor."
+    },
+    {
+        "term": "Método",
+        "definition": "Uma função associada a um objeto que realiza uma operação específica."
+    }
+]
